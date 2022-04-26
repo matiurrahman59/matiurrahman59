@@ -1,4 +1,4 @@
-# Konnichiwa, Matiur Rahman! 👋
+# Good Afternoon, Matiur Rahman! 👋
 
 ## I'm a self-taught passionate FrontEnd developer from Bangladesh.
 
@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/matiurrahman59" target="_blank">
-  <img align="left" alt="Masudha Meher | Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://www.linkedin.com/in/matiurrahman559/" target="_blank">
+  <img align="left" alt="MatiurRahman | Twitter" src="https://img.shields.io/badge/Linkedin-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <br/>
