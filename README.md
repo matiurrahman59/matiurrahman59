@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning MERN stack.
 - 💻 Frontend Dev at nahincorporation
-- 🥅 2021 Goals: Experiment, learn and build stuffs with my skillsets.
+- 🥅 2022 Goals: Experiment, learn and build stuffs with my skillsets.
 - 💬 Ask me about Tech-related stuff
 
 ### Connect with me:
