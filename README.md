@@ -1,9 +1,9 @@
-# Good Afternoon, Matiur Rahman! 👋
+# Hello, I'm Matiur Rahman! 👋
 
-## I'm a self-taught passionate FrontEnd developer from Bangladesh.
+## I'm a self-taught passionate FrontEnd developer from Bangladesh. I enjoy building sites & apps. My focus is React (Next.js).
 
-- 🌱 I’m currently learning MERN stack.
-- 🥅 2022 Goals: Experiment, learn and build stuffs with my skillsets.
+- 🌱 I’m currently learning the MERN stack.
+- 🥅 Goals: Experiment, learn, and build stuff with my skillsets.
 - 💬 Ask me about Tech-related stuff
 
 ### Connect with me:
